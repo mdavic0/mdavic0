@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is __Mauricio__, I'm from Argentina 🇦🇷 and I'm a Computer Engineering student at ***"Facultad de Ingenieria, Universidad de Buenos Aires"***.
+My name is __Mauricio__, I'm from Argentina 🇦🇷 and I'm a Software Engineering student at ***"Facultad de Ingenieria, Universidad de Buenos Aires"***.
 <!--
 **mdavic0/mdavic0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
